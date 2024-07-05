@@ -16,7 +16,7 @@ import PublicPlaylists from "./routes/PublicPlaylists";
 import Home from "./routes/Home";
 import MySubscriptions from "./routes/MySubscriptions";
 import "./components/Sidebar.css";
-import "./routes/Signup"
+import "./routes/Signup";
 import Signup from "./routes/Signup";
 
 const AppLayout = () => (
