@@ -78,8 +78,6 @@ title: OTLVR
 
 ### Work Flow:(Video-player)
 
-### graph TD      C{main.jsx}     C --> D\[navbar&sidebar\]     D --> E\[Home\]     D --> F\[videos\]     E --> G\[video\]     F --> G     F --> H\[video360\]     F --> J\[videoside.js
-
 &nbsp;
 
 1. main.jsx:
