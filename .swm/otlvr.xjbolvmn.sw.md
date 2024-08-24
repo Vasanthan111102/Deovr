@@ -76,8 +76,6 @@ title: OTLVR
   - <SwmPath>[src/index.css](/src/index.css)</SwmPath>
   - <SwmPath>[src/main.jsx](/src/main.jsx)</SwmPath>
 
-### Work Flow:(Video-player)
-
 &nbsp;
 
 1. main.jsx:
